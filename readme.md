@@ -21,7 +21,7 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver algu
 
 Este projeto está licenciado sob a MIT License - consulte o arquivo LICENSE para obter mais detalhes.
 
-<br>
+![Diagrma do projeto](./img/diagrama-cp1.png)
 
 # My Project
 
