@@ -1,4 +1,4 @@
-# Meu Projeto
+# Projeto Sensor de Luminosidade
 
 Este é um projeto que controla um semáforo baseado em um sensor de luz.
 
@@ -23,7 +23,7 @@ Este projeto está licenciado sob a MIT License - consulte o arquivo LICENSE par
 
 <br>
 
-# My Project
+# Luminosity Sensor
 
 This is a project that controls a traffic light based on a light sensor.
 
